@@ -5,7 +5,7 @@
 git add
 git status
 git pull
-git commint
+git commit
 git checkout
 git clone
 git log
